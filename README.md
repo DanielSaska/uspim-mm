@@ -1,2 +1,2 @@
-# uSPIM Micromanager Plugin
+# μSPIM Micromanager Plugin
 Please refer to documentation at [https://uspim.org/](https://uspim.org/).
